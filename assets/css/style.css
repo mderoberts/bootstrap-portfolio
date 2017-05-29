@@ -12,11 +12,11 @@ body {
 .navbar-header {
   background: #4aaaa5;
   /*padding: 0px auto;*/
-  margin-left: 50px;
+  margin-left: 2%;
 }
 
 /*.navbar-brand  {
-
+  padding: -20px
 }*/
 
 .navbar-nav {
@@ -30,7 +30,12 @@ body {
 }
 
 #main-content {
+}
 
+#photo {
+  max-width: 40%;
+  padding-right: 2%;
+  float: left;
 }
 
 .sidebar {
