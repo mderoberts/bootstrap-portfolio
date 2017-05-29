@@ -2,12 +2,18 @@ body {
 
 }
 
-.navbar-header {
+.navbar {
+  color: #fff;
+  border-bottom: 4px solid #ccc;
+}
 
+.navbar-header {
+  color: #4aaaa5;
+  /*margin-left: 50px;*/
 }
 
 .navbar-nav {
-
+  float: right;
 }
 
 .main-container {
@@ -27,5 +33,5 @@ body {
 }
 
 footer {
-  
+
 }
