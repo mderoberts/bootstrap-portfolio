@@ -17,7 +17,13 @@ h3 {
 h2,
 h3 {
   color: #4aaaa5;
-  border-bottom: 85%
+}
+
+.heading-line {
+   border-bottom: 2px solid #eee;
+   width: 65%;
+   float: left;
+   margin-bottom: 2%;
 }
 
 h1 {
@@ -50,6 +56,7 @@ p {
 
 .navbar-brand  {
   padding-left: 30px;
+  height: 100%;
 }
 
 .navbar-nav {
@@ -73,12 +80,13 @@ p {
 
 .sidebar {
 float: left;
+margin-top: -2%;
 }
 
 .social-badge {
   max-width: 20%;
   float: left;
-  margin: 0 1%;
+  margin: 1%;
 }
 
 /* Footer */
