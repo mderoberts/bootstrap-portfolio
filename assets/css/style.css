@@ -72,12 +72,13 @@ p {
 }
 
 .sidebar {
-
+float: left;
 }
 
-#social-badge {
-  max-width: 30%;
+.social-badge {
+  max-width: 20%;
   float: left;
+  margin: 0 1%;
 }
 
 /* Footer */
