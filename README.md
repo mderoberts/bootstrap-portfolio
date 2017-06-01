@@ -1,3 +1,3 @@
 # bootstrap-portfolio
 
-I opened this file from Terminal. Success! 
+This is the Basic Portfolio website built with Bootsrap.
